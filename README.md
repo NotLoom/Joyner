@@ -33,8 +33,15 @@
                    
 
 
-Joyner is a python script written to combine the audio from a virtual audio cable and your microphone
-and output that to a new virtual audio cable
+Joyner is a professional-looking audio mixer application built with Python, `ttkbootstrap`, and `sounddevice`. The app allows you to select audio devices, mix audio streams with adjustable gain controls, and toggle between light and dark modes.
+
+## Features
+
+- **Device Selection:** Choose VB-Cable, microphone, and output devices.
+- **Gain Controls:** Adjust microphone and VB-Cable gain.
+- **Mute Options:** Mute either audio input.
+- **Dark Mode Toggle:** Switch between light and dark themes.
+- **Settings Persistence:** Saves your device selections and settings to a JSON file.
 
 Join the discord for help
 https://discord.gg/3QXEmdRktR
